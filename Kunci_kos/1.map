@@ -1,0 +1,16 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+input                                                             0x0160       8
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+tekan                                                             R4,R5        2
+hasil                                                             R6,R7        2
+i                                                                 R8,R9        2
+j                                                                 R10,R11      2
